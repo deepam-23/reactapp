@@ -116,7 +116,6 @@ assignment/
    ```bash
    npm run dev
    ```
-
 6. **Frontend Setup**
    ```bash
    cd ../frontend
@@ -287,3 +286,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Material-UI for the excellent component library
 - Recharts for the powerful charting library
 - MongoDB for the flexible database solution
+=======
+# reactapp
+>>>>>>> 8ab26354a285d204ceb179c1ecb9954589fc8caf
