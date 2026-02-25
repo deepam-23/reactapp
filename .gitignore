@@ -1,0 +1,22 @@
+# Backend
+backend/node_modules
+backend/.env
+backend/*.log
+
+# Frontend
+frontend/node_modules
+frontend/build
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Screenshots folder (add your screenshots here)
+screenshots/
+
+# General
+.DS_Store
+*.log
