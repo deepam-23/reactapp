@@ -14,8 +14,6 @@ frontend/npm-debug.log*
 frontend/yarn-debug.log*
 frontend/yarn-error.log*
 
-# Screenshots folder (add your screenshots here)
-screenshots/
 
 # General
 .DS_Store
