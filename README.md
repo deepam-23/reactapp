@@ -203,10 +203,6 @@ All analytics endpoints support the following optional parameters:
 
 ## 🎨 Dashboard Screenshots
 
-### Login Page
-![Login Page](screenshots/login.png)
-*Clean and modern login interface with JWT authentication*
-
 ### Home Screen
 ![Home Screen](screenshots/home.png)
 *Landing page or project home view*
@@ -214,14 +210,6 @@ All analytics endpoints support the following optional parameters:
 ### Dashboard Overview
 ![Dashboard Overview](screenshots/dashboard.png)
 *Complete analytics dashboard with summary cards and multiple chart types*
-
-### Charts and Visualizations
-![Charts](screenshots/charts.png)
-*Interactive charts including pie charts, line graphs, bar charts, and doughnut charts*
-
-### Filtering Options
-![Filters](screenshots/filters.png)
-*Advanced filtering panel with date range, category, status, and region filters*
 
 ## 🔐 Authentication
 
